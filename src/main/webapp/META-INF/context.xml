@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/CruzJM1ANO">
+    <Resource 
+        auth="Container" 
+        driverClassName="com.mysql.cj.jdbc.Driver" 
+        maxActive="100" 
+        maxIdle="30" 
+        maxWait="10000" 
+        name="jdbc/CruzJM1ANO"
+        password="Java*2025" 
+        type="javax.sql.DataSource" 
+        url="jdbc:mysql://localhost:3306/hibernate" 
+        username="java2025"/>
+</Context>
